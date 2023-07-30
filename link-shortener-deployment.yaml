@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: link-shortener
-          image: your-docker-registry/link-shortener:latest
+          image: umtcn/link-shortener:latest
           ports:
             - containerPort: 8080
